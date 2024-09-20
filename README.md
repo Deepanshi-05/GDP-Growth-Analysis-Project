@@ -1,6 +1,6 @@
 # GDP-Growth-Analysis-Project
 Overview
-The GDP Growth Analysis Project is a data analysis and visualization project that explores the Gross Domestic Product (GDP) of various countries over time. GDP is a crucial indicator of economic performance, representing the total value of all goods and services produced within a country over a specific period. This project aims to analyze GDP growth, compare GDP across different countries, and visualize the data using interactive plots.
+The GDP Growth Analysis Project is a data analysis and visualization project that explores various countries' Gross Domestic Product (GDP) over time. GDP is a crucial indicator of economic performance, representing the total value of all goods and services produced within a country over a specific period. This project aims to analyze GDP growth, compare GDP across different countries, and visualize the data using interactive plots.
 
 Project Objectives
 Analyze GDP Growth: Understand how the GDP of various countries has grown or contracted over time.
@@ -38,4 +38,4 @@ Country-Specific Comparison: Focused comparison between specific countries, such
 3. Data Visualization Using Plotly
 Interactive Graphs: Leveraging Plotly to create interactive line charts and bar charts that allow users to explore GDP trends dynamically.
 Specific Comparisons: Visualizing GDP comparisons between selected countries using line graphs.
-Getting 
+ 
